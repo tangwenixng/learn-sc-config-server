@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: master-bar
+  foo: master-bar-1611
   someList: [2, 3, 7]
